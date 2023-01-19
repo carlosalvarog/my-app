@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+import logo from './Marca_inicio_white.png';
 import './App.css';
+import React from 'react';
 
 function App() {
   return (
@@ -7,15 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         BIENVENIDO
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
+          href="http://www.inteleen.com"
+          target="http://www.inteleen.com"
           rel="noopener noreferrer"
         >
-          Learn React
+          DISFRUTA
         </a>
       </header>
     </div>
